@@ -1,3 +1,8 @@
+OBSOLETE repo, please continue to https://github.com/nilsmagnus/grib
+================================
+
+
+
 GRIB2 Golang experimental parser
 ================================
 
